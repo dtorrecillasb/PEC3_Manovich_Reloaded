@@ -13,9 +13,11 @@ Fecha:
 
 El objetivo de esta PEC es desarrollar un ensayo que analice dos casos de hibridación moderna que podrían ser considerados para formar parte de una posible segunda edición del libro **"El software toma el mando"** de ***Lev Manovich***.
 
+![Lev Manovich](https://live.staticflickr.com/1006/1457054876_f0603f209b_k.jpg "Lev Manovich")
+
 Los casos seleccionados para este análisis son ***IKEA Place*** y ***Just Dance Now***. Ambos ejemplos representan la convergencia de diferentes medios y tecnologías, que han dado lugar a experiencias innovadoras en sus respectivos campos.
 
-![Lev Manovich](https://live.staticflickr.com/1006/1457054876_f0603f209b_k.jpg "Lev Manovich")
+
 
 ## Re-descubriendo la hibridacion: Caso 1 - ***IKEA Place***
 
