@@ -35,6 +35,7 @@ Los casos seleccionados para este análisis son ***IKEA Place*** y ***Just Dance
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
+*en desarrollo*
 
 ----
 
