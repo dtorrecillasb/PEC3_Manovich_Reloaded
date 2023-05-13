@@ -23,7 +23,7 @@ Los casos seleccionados para este análisis son ***IKEA Place*** y ***Just Dance
 
 *en desarrollo...*
 
-## Re-descubriendo la hibridacion: Caso 2 - ***Last Dance Now***
+## Re-descubriendo la hibridacion: Caso 2 - ***Just Dance Now***
 
 *en desarrollo...*
 
