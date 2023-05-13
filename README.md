@@ -34,6 +34,7 @@ Los casos seleccionados para este análisis son ***IKEA Place*** y ***Just Dance
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* mosaic.uoc.edu – Remediación, multimedia e hibridación de los medios [en línea] [consulta: 4 de mayo de 2023] Disponible en: (http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
 
 *en desarrollo...*
 
