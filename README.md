@@ -36,10 +36,12 @@ Los casos seleccionados para este análisis son ***IKEA Place*** y ***Just Dance
 * apps.apple.com - IKEA Place en APP Store [en línea] [consulta: 9 de mayo de 2023] Disponible en:(https://apps.apple.com/es/app/ikea-place/id1279244498)
 * apps.apple.com - Just Dance Now en APP Store [en línea] [consulta: 10 de mayo de 2023] Disponible en:(https://apps.apple.com/us/app/just-dance-now/id833517462)
 * justdancenow.com - JUST DANCE NOW [en línea] [consulta: 8 de mayo de 2023] Disponible en:(https://justdancenow.com/) 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* marketinginsiderreview.com - Ikea Place: la Realidad Aumentada en nuestras vidas diarias [en línea] [consulta: 9 de mayo de 2023] Disponible en:(https://www.marketinginsiderreview.com/ikea-place-realidad-aumentada/)
 * mosaic.uoc.edu – Remediación, multimedia e hibridación de los medios [en línea] [consulta: 4 de mayo de 2023] Disponible en: (http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
+* tallerdenarraciontransmedia - ANÁLISIS DE JUEGO: JUST DANCE NOW [en línea] [consulta: 10 de mayo de 2023] Disponible en: (https://tallerdenarraciontransmedia.wordpress.com/2016/06/01/analisis-de-juego-just-dance-now/)
 * xatakahome.com - IKEA Place es la apuesta del gigante sueco para decorar nuestra casa con la ayuda de la Realidad Aumentada [en línea] [consulta: 6 de mayo de 2023] Disponible en:(https://www.xatakahome.com/aplicaciones/ikea-place-es-la-apuesta-del-gigante-sueco-para-decorar-nuestra-casa-con-la-ayuda-de-la-realidad-aumentada)
-*
+
 *en desarrollo...*
 
 ----
