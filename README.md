@@ -38,3 +38,5 @@ Los casos seleccionados para este análisis son ***IKEA Place*** y ***Just Dance
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
 
 Imágenes:
+
+CC BY [X|Media|Lab](https://www.flickr.com/photos/45213919@N00/1457054876) 
