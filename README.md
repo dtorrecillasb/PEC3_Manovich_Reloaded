@@ -15,6 +15,8 @@ El objetivo de esta PEC es desarrollar un ensayo que analice dos casos de hibrid
 
 Los casos seleccionados para este análisis son ***IKEA Place*** y ***Just Dance Now***. Ambos ejemplos representan la convergencia de diferentes medios y tecnologías, que han dado lugar a experiencias innovadoras en sus respectivos campos.
 
+![Lev Manovich](https://www.flickr.com/photos/45213919@N00/1457054876 "Lev Manovich")
+
 ## Re-descubriendo la hibridacion: Caso 1 - ***IKEA Place***
 
 
