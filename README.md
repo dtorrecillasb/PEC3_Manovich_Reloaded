@@ -42,7 +42,6 @@ Los casos seleccionados para este análisis son ***IKEA Place*** y ***Just Dance
 * tallerdenarraciontransmedia - ANÁLISIS DE JUEGO: JUST DANCE NOW [en línea] [consulta: 10 de mayo de 2023] Disponible en: (https://tallerdenarraciontransmedia.wordpress.com/2016/06/01/analisis-de-juego-just-dance-now/)
 * xatakahome.com - IKEA Place es la apuesta del gigante sueco para decorar nuestra casa con la ayuda de la Realidad Aumentada [en línea] [consulta: 6 de mayo de 2023] Disponible en:(https://www.xatakahome.com/aplicaciones/ikea-place-es-la-apuesta-del-gigante-sueco-para-decorar-nuestra-casa-con-la-ayuda-de-la-realidad-aumentada)
 
-*en desarrollo...*
 
 ----
 
