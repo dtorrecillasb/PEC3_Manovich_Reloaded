@@ -83,4 +83,5 @@ Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
 Imágenes:
 
 CC BY [X|Media|Lab](https://www.flickr.com/photos/45213919@N00/1457054876) 
+
 CC BY [openverse](https://openverse.org/image/12f857fe-bed9-4aed-9b66-9f9d705b9eaa?q=ikea%20place) 
