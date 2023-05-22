@@ -44,11 +44,25 @@ La hibridación de medios en *IKEA Place* se alinea con la idea de que los medio
 
 ## Re-descubriendo la hibridacion: Caso 2 - ***Just Dance Now***
 
-*en desarrollo...*
+La **hibridación** de medios y tecnologías ha transformado diversos aspectos de nuestra vida cotidiana, incluyendo la forma en que nos entretenemos y participamos en actividades recreativas. No hace mucho observaba como mis hijos bailaban en el salón de casa siguiendo una coreografía y mientras sostenían el teléfono móvil en la mano y recibían una puntuación en base a sus movimientos. Es por ello que para este segundo caso de hibridación voy a tratar el juego ***Just Dance Now***.
+
+![Just Dance](https://live.staticflickr.com/3813/9941413053_e0737797e7_w.jpg "Just Dance")
+
+***Just Dance Now*** es un juego de baile desarrollado por Ubisoft para dispositivos móviles. No requiere de consolas de videojuegos o accesorios especiales, ya que permite disfrutar de la experiencia del juego siguiendo coreografías de diferentes estilos musicales utilizando teléfonos móviles como mandos (controladores).
+
+***Lev Manovich*** sostiene que la hibridación de los medios implica la fusión de diferentes medios para crear un objeto complejo que va más allá de la suma de sus partes individuales, generando nuevas funcionalidades. En el caso de ***Just Dance Now***, podemos apreciar esta hibridación al combinar la tecnología digital y la experiencia de bailar.
+
+La hibridación en ***Just Dance Now*** no se limita a la mera presencia de diferentes medios en un mismo entorno, como en el caso de la multimedia. Más bien, se trata de una integración más profunda y compleja, donde los datos y elementos se combinan para crear una experiencia nueva.
+
+En este caso la hibridación está más relacionada con la **manipulación de datos y algoritmos**. El juego aprovecha las **técnicas independientes del medio**. Los datos y elementos visuales, como las coreografías y los movimientos del jugador, se integran en un entorno digital en tres dimensiones. Aquí, los datos de movimiento y los movimientos corporales del jugador se **fusionan** con el entorno virtual, a través de la **yuxtaposición** de elementos visuales de **distintos medios** dentro de una misma imagen, permitiendo una experiencia de baile inmersiva.
+
+Mediante el uso de sensores, acelerómetros y algoritmos de procesamiento de imágenes, la tecnología registra y analiza los movimientos del jugador, proporcionando una retroalimentación en tiempo real sobre la precisión y el rendimiento, contribuyendo en este caso a simplificar **modelos complejos** de movimientos de baile.
+
 
 ## Conclusiones
 
-*en desarrollo...*
+En conjunto, los casos de **hibridación** de ***IKEA Place*** y ***Just Dance Now***  nos muestran cómo la **fusión de diferentes medios y tecnologías** ha transformado diversos aspectos de nuestras vidas, desde el entretenimiento y la recreación hasta el diseño y la decoración del hogar. Estos casos ejemplifican los principios de la hibridación de medios propuestos por ***Lev Manovich***, donde el resultado de la combinación de medios es superior a la suma de las partes individuales, aportando nuevas funcionalidades y experiencias.
+
 
 ### Referencias y Bibliografía
 
