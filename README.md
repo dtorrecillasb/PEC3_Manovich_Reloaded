@@ -84,4 +84,8 @@ Imágenes:
 
 CC BY [X|Media|Lab](https://www.flickr.com/photos/45213919@N00/1457054876) 
 
-CC BY [openverse](https://openverse.org/image/12f857fe-bed9-4aed-9b66-9f9d705b9eaa?q=ikea%20place) 
+CC BY 2.0 [openverse - Ikea Place App by marhillary](https://openverse.org/image/12f857fe-bed9-4aed-9b66-9f9d705b9eaa?q=ikea%20place) 
+
+CC BY 2.0 [openverse - Realidad Aumentada by DubsarPR](https://openverse.org/image/e8733960-3706-422b-bc16-fc23c9a726d6?q=realidad%20aumentada)
+
+CC BY 2.0 [openverse - Escenario 40 Pricipales (Just Dance) by Sebastián M. R.](https://openverse.org/image/54205d57-0eb4-4b53-85c0-91eba7c29d0f?q=just%20dance) 
