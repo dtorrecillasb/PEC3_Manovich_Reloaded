@@ -21,7 +21,7 @@ Los casos seleccionados para este análisis son ***IKEA Place*** y ***Just Dance
 
 ## Re-descubriendo la hibridacion: Caso 1 - ***IKEA Place***
 
-IKEA Place es una innovadora aplicación móvil desarrollada por Inter IKEA Systems B.V. diseñada para aprovechar la tecnología de realidad aumentada. Ofrece a los usuarios/clientes de IKEA una experiencia única al permitirles visualizar y ubicar virtualmente muebles y accesorios de su catalogo en su casa. Se a convertido en una herramienta de referencia para aquellos que buscan diseñar y amueblar los espacios de su casa de manera práctica y personalizada.
+IKEA Place es una innovadora aplicación móvil desarrollada por *Inter IKEA Systems B.V.* diseñada para aprovechar la tecnología de realidad aumentada. Ofrece a los usuarios/clientes de *IKEA* una experiencia única al permitirles visualizar y ubicar virtualmente muebles y accesorios de su catalogo en su casa. Se a convertido en una herramienta de referencia para aquellos que buscan diseñar y amueblar los espacios de su casa de manera práctica y personalizada.
 
 ![Ikea Place App](https://live.staticflickr.com/65535/48317217561_8e93159f63_w.jpg "Ikea Place App")
 
