@@ -29,7 +29,7 @@ En este primer caso exploro, desde la perspectiva de Lev Manovich, cómo *IKEA P
 
 Pero, ¿Qué es la realidad aumentada?
 
->La **realidad aumentada** (*AR*) es el término que se usa para describir al conjunto de tecnologías que permiten que un usuario visualice parte del mundo real a través de un dispositivo tecnológico con información gráfica añadida por este. El dispositivo, o conjunto de dispositivos, añaden información virtual a la información física ya existente, es decir, una parte virtual aparece en la realidad. De esta manera los elementos físicos tangibles se combinan con elementos virtuales, creando así una realidad aumentada en tiempo real. El término empezó a usarse en 1992. >"*Realidad aumentada" - Wikipedia*
+>La **realidad aumentada** (*AR*) es el término que se usa para describir al conjunto de tecnologías que permiten que un usuario visualice parte del mundo real a través de un dispositivo tecnológico con información gráfica añadida por este. El dispositivo, o conjunto de dispositivos, añaden información virtual a la información física ya existente, es decir, una parte virtual aparece en la realidad. De esta manera los elementos físicos tangibles se combinan con elementos virtuales, creando así una realidad aumentada en tiempo real. El término empezó a usarse en 1992. "*Realidad aumentada" - Wikipedia*
 
 ![Realidad Aumentada](https://live.staticflickr.com/6177/6220166454_46decc7613_w.jpg "Realidad Aumentada")
 
